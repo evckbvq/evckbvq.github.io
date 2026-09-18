@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7f09bfc43d72662de3f6",
+  "page_size": 20,
+  "site_id": "548f7fa62dabd0c894a25e80",
+  "owner": "evckbvq",
+  "repo": "evckbvq.github.io",
+  "title": "网络加速服务",
+  "mode": "site",
+  "articles": [
+    {
+      "id": "0d210b1cac14c5d720263ef3",
+      "a": "金龙鱼(CTC)",
+      "b": "官方发布页",
+      "entity": "金龙鱼(CTC)",
+      "brand": "官方发布页",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "eeece02ef0f7b4aeb2b6dfabf59e4f39b07bee911d46713c105712378ecf7493",
+      "content": {
+        "primary_entity": "金龙鱼(CTC)",
+        "keyword1": "金龙鱼(CTC)",
+        "keyword2": "官方发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备类型选择客户端，Windows 与 macOS 可用 Clash Verge，Android 用 Clash Meta，iOS 用 Shadowrocket，路由器按 OpenWrt 插件配置。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选定套餐，按客户端文档完成订阅配置即可开始使用。",
+          "AI_CLOSING_TITLE": "选对套餐，配置更省心",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档选择，分别对应不同流量额度、设备数量与节点权限，支持流媒体解锁与游戏专线优化。",
+          "AI_FAQ_ANSWER_1": "在客户端内选择订阅导入，粘贴订阅地址后更新即可。不同客户端入口名称略有差异，按对应文档操作。",
+          "AI_FAQ_ANSWER_2": "基础版可支持少量设备，旗舰版适合多台常用设备，团队版面向更多设备同时在线，具体上限以套餐说明为准。",
+          "AI_FAQ_ANSWER_3": "按年付通常比按月付更划算，适合长期稳定使用的用户，可在套餐页查看具体折扣方案。",
+          "AI_FAQ_ANSWER_4": "旗舰版与团队版包含原生流媒体解锁，基础版支持基础流媒体解锁，具体以实际节点为准。",
+          "AI_FAQ_ANSWER_5": "旗舰版提供 IPLC 专线游戏加速优化，延迟表现更稳定；团队版支持企业定制路由，适合多人协作。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "订阅如何导入客户端？",
+          "AI_FAQ_QUESTION_2": "一个账号可以同时登录几台设备？",
+          "AI_FAQ_QUESTION_3": "按年付比按月付划算吗？",
+          "AI_FAQ_QUESTION_4": "流媒体解锁支持哪些平台？",
+          "AI_FAQ_QUESTION_5": "游戏加速需要选哪个套餐？",
+          "AI_FAQ_TITLE": "常见疑问",
+          "AI_FEATURES_INTRO": "从流量额度、设备数量和节点权限三个角度对比套餐，帮助快速定位合适档位。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版适合轻量使用，旗舰版满足多设备与流媒体需求，团队版面向多人协作与高带宽场景。",
+          "AI_FEATURE_TEXT_2": "按同时在线的设备数量选择档位，避免超出上限导致连接中断。",
+          "AI_FEATURE_TEXT_3": "月付灵活、年付更省，长期使用建议直接选择年付方案，减少续费操作。",
+          "AI_FEATURE_TITLE_1": "按用量选套餐",
+          "AI_FEATURE_TITLE_2": "按设备数选套餐",
+          "AI_FEATURE_TITLE_3": "按周期选套餐",
+          "AI_GUIDE_INTRO": "选定套餐后，查看设备适配要求并完成订阅配置。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "金龙鱼(CTC)提供基础版、旗舰版和团队版三档套餐，覆盖不同流量与设备需求，支持流媒体解锁、游戏专线和多平台客户端配置，方便按需选择。",
+          "AI_HERO_SUBTITLE": "三档套餐，按需选择",
+          "AI_HIGHLIGHT_1": "基础版轻量上网首选",
+          "AI_HIGHLIGHT_2": "旗舰版全节点流媒体解锁",
+          "AI_HIGHLIGHT_3": "团队版支持企业定制路由",
+          "AI_PLANS_INTRO": "对比三档套餐的流量、设备数量与节点权限，按实际使用场景选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常流量消耗与同时在线设备数量，在基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TEXT_2": "确认所用设备系统与客户端类型，查看对应适配说明，确保订阅可正常导入。",
+          "AI_STEP_TEXT_3": "在客户端内导入订阅地址并更新节点，按文档完成配置后即可连接使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "金龙鱼(CTC) 套餐速览"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "7f1159886f1dc518149502e42d7e940702b5b11b5ac9db3d52570cafaaae50a2",
+    "sitemap.xml": "4d437d3503f664a7b8a2f04931fde6494a42590997bf948f897ae92fcfd64a9e",
+    "robots.txt": "fe1dba06ce77e690a6b99a9fefd5c8d329daa41487b88a494ab1df17b7d6e5d1",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "7dde0d5cd7d3abec5609ca89fcfa03b1e62b837ffb26d032f543b56307e8c208"
+}
